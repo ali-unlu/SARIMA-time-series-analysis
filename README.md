@@ -1,6 +1,6 @@
 # SARIMA Time Series Analysis
 
-In this demostration, we will analysis a dataset on the temperature of Istanbul.  In this dataset, it includes daily average temperature values collected as Fahrenheit over different regions, countries, cities over the years from about 1995 to 2020 but we only focus on Istanbul.
+In this demonstration, we will analyze a dataset on the temperature of Istanbul.  In this dataset, it includes daily average temperature values collected as Fahrenheit over different regions, countries, cities over the years from about 1995 to 2020 but we only focus on Istanbul.
 
 __Briefly, in this analysis, you will learn:__
 - Data preprocessing for time series analysis
